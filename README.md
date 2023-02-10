@@ -1,1 +1,1 @@
-This repo contains the shell basics commandes
+This repo contains the shell basics commandes.i
