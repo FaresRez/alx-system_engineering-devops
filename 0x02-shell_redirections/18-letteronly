@@ -1,0 +1,3 @@
+#!/bin/bash
+egrep -e '^[a-zA-Z]' /etc/ssh/sshd_config
+
