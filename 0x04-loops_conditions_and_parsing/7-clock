@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+#this script displays the time for 12 hours and 
+
+h=0
+m=1
+while (( h<13 ))
+do
+  echo "Hour: $h"
+  while (( m<60 ))
+  do
+      echo "$m"
+      ((m++))
+  done
+  m=1
+  ((h++))
+done
