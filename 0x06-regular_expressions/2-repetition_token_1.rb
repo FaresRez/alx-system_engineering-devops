@@ -1,3 +1,3 @@
 #!/usr/bin/env ruby
-input = ARGV[0]
-puts input.scan(/^hb?tn$/).join
+
+puts ARGV[0].scan(/^hb?t?n$/).join
